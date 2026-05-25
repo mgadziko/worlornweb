@@ -1,0 +1,171 @@
+Trump of Wasteland
+
+c = creature
+l = place
+t = thing
+
+Major Arcana
+------------
+    ? "name"       card shows/commentary
+----------------------------------------
+  1 t diamond      diamond gemstone (dead)
+  2 c bleys        human outdoorsman
+  4 t caine        black doll (dead - lich)
+  5 t colbart      deck of trump (dead)
+  6 c corwyn       hobbit male
+  7 c damion       bright human male
+  8 c troy ounces  jade skull (dead by illithid)
+  9 c eressea      hooded woman
+ 10 c erik         human male in black (dead of old age)
+ 11 c gerier       wu hsin (weapon unknown)
+ 12 l ilium        walled city (razed)
+ 13 c julian       human woodsman
+ 14 c keebler      elf male
+ 15 c pumpernickle human male knight
+ 16 c random       human male
+ 17 t tetra        ruby gemstone (dead - stoneholder)
+ 18 t tomyris d    grey field (void)
+ 19 t troy         grey field (void)
+ 20 c v tepes      tall human male (dead - vampire)
+ 21 t wanda        grey field (void)
+ 22 t xcalis       pattern of troad
+
+Minor Arcana
+
+ 23 t a copis      iron axe (dead by yama)
+ 24 c arin         human male
+ 25 t barrion      wu hsin (dead by iceflame)
+ 26 t calypso      statue of muse of dreams (retired by muse)
+ 27 t chamelion    chime (dead by chime of death)
+ 28 c dara         blonde human female
+ 29 c dierdre      redhead human female
+ 30 c dilwyn       human male (bearer of crown of might)
+ 31 c w dude       human male
+ 32 c findo        dark human male
+ 33 c brand        redhead human male
+ 34 c florimel     blonde human female
+ 35 t hal          jade skull (dead by illithid)
+ 36 c hektor       dark human male
+ 37 c helen        the most beautiful woman in the world
+ 38 t hermione     jade skull (dead by illithid)
+ 39 c jefty        five year old redhead human boy
+ 40 c jenna        redhead human female
+ 41 t kleronomas   wu hsin (dead by lifesbane)
+ 42 c klesst       blonde elf female
+ 43 c lillith      dark female (dead - vampire)
+ 44 c llewella     redhead mermaid
+ 45 c mady         redhead human female
+ 46 t mario        peridot gemstone (secrecy)
+ 47 t martim       pattern of troad (dead by pattern)
+ 48 t morgan l f   wu hsin (dead by anglachel)
+ 49 t osric        pattern of troy (dead by pattern)
+ 50 c perris       human male (dead of old age)
+ 51 t puk          wu hsin (dead by killer)
+ 52 c quicksilver  brunette elf woman
+ 53 c rinaldo      black human male
+ 54 t severain     wu hsin (dead by lifesbane)
+ 55 t singer       grey field (void)
+ 56 c skemandras   dark human male
+ 57 t stilgar      jade skull (dead by illithids)
+ 58 t victor       assassin's wand (dead by Homer)
+ 59 t wedge        jade skull (dead by illithids)
+ 60 c zendrius     black doll (dead - lich)
+ 61 l black seam   lava floe in obsidian crevasse
+ 62 t miranes      woman with falcon and topaz jewel
+ 63 c brushfire    halfling male
+ 64 t champion     statue of muse of dreams (retired by muse)
+ 65 c clarissa     unicorn ex-wife #1
+ 66 l clulow       stone obelisk
+ 67 c clyminea     unicorn ex-wife #2
+ 68 l cordouan     redlight house on forbidden isle
+ 69 l covencastle  city on isle of dead elf babies
+ 70 l hissarlik 9  hill in clearing of forest
+ 71 l craig donn   stonehenge of shando coven
+ 72 t crysofar     wu hsin (killed by terminus est)
+ 73 t dark angel   wu hsin (killed by anglachel)
+ 74 l diaspar      city in antamareesi
+ 75 l donnerbaum   thundertree of karli coven
+ 76 t eol          burning wu hsin (dead by anglachel, destruction)
+ 77 c faiella      unicorn ex-wife #3
+ 78 c fastshoe     knight elf male, demoted from major arcana
+ 79 l hissarlik 11 flatland
+ 80 l hissarlik 15 fortress on desert
+ 81 t gerard       jade skull (dead by illithid)
+ 82 c harla        unicorn ex-wife #4
+ 83 l heaven       island of the grand master's garden
+ 84 t dark helen   wu hsin (self-consumed morganti id)
+ 85 t henrietta    grey field (void)
+ 86 l holywell     of tranodeli coven
+ 87 c kalkin       human male publicity still (dead of pathsfall)
+ 88 l tree         keebler's cookie factory
+ 89 l stone ring   kiron's stones
+ 90 l kolvir       spiral staircase of the great dome of troy
+ 91 l kolwynia b   cairn on elidor
+ 92 l hissarlik 12 forest
+ 93 t luces rojo   red field (dead of pathsfall)
+ 94 t moire        wu hsin (dead of iceflame)
+ 95 t morganthe    wu hsin (dead of anglachel)
+ 96 c morningstar  stone sphinx (dead)
+ 97 l hissarlik 18 volcanos with blue fire
+ 98 l hissarlik 13 underwater city of muili
+ 99 l new troia    city outside hissarlik
+100 c nuihc        kav elf male in black
+101 l hissarlik 14 flame towers
+102 t piscator     flame (dead by the fire sermon)
+103 l hissarlik 18 underwater city of rebma
+104 t r, son       wu hsin (dead by iceflame)
+105 c rilga        unicorn ex-wife #5
+106 c sand         human male
+107 t set          flame (dead by the fire sermon)
+108 t sheherezade  pattern of troad (dead by pattern)
+109 l the shoppe   magic store
+110 t silverfox    statue of the muse of dreams (retired by muse)
+111 l hissarlik 17 cloud castle
+112 l hissarlik 6  room of vats
+113 c malificscent green woman (dead of iahklu poisoning)
+114 l hissarlik 10 tower in forest
+115 t typhon       black field (annihilation)
+116 t venolupeh    grey field (void)
+117 l voidcastle   city on asteroid in greyspace
+118 c waldann x    elf male (dead by pathsfall)
+119 l welathye t.  wooden doorway
+120 c vlad petros  tall human male
+121 c cinnamon     unicorn ex-wife #6
+122 t spice        wu hsin (dead by tlolouvin meathook)
+
+Minor Arcana (addendum I)
+
+123 c threnody     charming lios elfar male with flute
+124 c digriz       burning rat in strong breeze
+125 c lord dasher  kav elf male with wand and sword crossed before him
+127 c klew merauw  half-elf male driving magic bus
+128 c erin the fan tall kav elf male with scary grey longsword drawn
+129 c aliera       kav elf female three-sword
+130 c marlee       tall human female levitating in full lotus
+131 i maeglin      wu hsin
+132 c niteblade    dark childe male
+133 c damon        dwarf male with hammmer at forge
+134 c wedge ii     half-elf male with mandolin
+135 c roland       4-armed kav elf male
+136 i chrysofar ii black field (annihilated)
+137 c tanngrisnir  a mirror
+138 c ptah cleric  wood elf with staff
+139 c silent dan   dark childe male
+140 c almitra      unicorn ex-wife #8
+141 c simon        flaming pattern (dead by pattern destruction)
+
+Minor Arcana (addendum II)
+
+142 c duncan
+143 c kannon
+144 c barrion ii
+145 c r, son ii
+146 c reach        dwarf
+147 c speaker      female aqautic elf
+148 c marisse      woman dressed in copper, with crow
+149 c tann ii      black human male in white robes
+
+Minor Arcana (addendum III)
+
+150 c crimson grey kimdiss with 9-bladed sword
+151 c faella       mailed redhead woman with wavy blade 
